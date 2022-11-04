@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anuja Singh</h1>
-<h3 align="center">Student | Learner | Java Developer | Web Developer | Flutter Developer| AI&ML Enthusiast</h3>
+<h3 align="center">Software Engineer || Google Certified Associate Cloud Engineer || React Js Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanujasingh&label=Profile%20views&color=0e75b6&style=flat" alt="imanujasingh" /> </p>
 
-- 🌱 I’m currently learning **Flutter,Python,Machine Learning**
+- 🌱 I’m currently learning **React Js,Next Js**
 
-- 👯 I’m looking to collaborate on **Web Development,Flutter Development**
+- 👯 I’m looking to collaborate on **Web Development,Google Cloud**
 
-- 💬 Ask me about **Java,C,C++,HTML,CSS**
+- 💬 Ask me about **Java,HTML,CSS,React Js**
 
 - 📫 How to reach me **anujasingh2000@gmail.com**
 
